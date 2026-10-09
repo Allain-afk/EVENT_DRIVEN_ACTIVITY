@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow_primary">#FBC02D</color>
+    <color name="yellow_primary_dark">#F57F17</color>
+    <color name="yellow_accent">#FFD600</color>
+    <color name="yellow_background">#FFFDE7</color>
+    <color name="yellow_card">#FFF59D</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="input_border">#FBC02D</color>
+    <color name="cancel_red">#D32F2F</color>
+    <color name="cancel_bg">#FFEBEE</color>
+</resources>

@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">EventDriven Activity</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Please sign in to continue</string>
+    <string name="signup_title">Create Account</string>
+    <string name="signup_subtitle">Fill in your details to register</string>
+
+    <string name="label_username">Username</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_password">Password</string>
+    <string name="label_confirm_password">Confirm Password</string>
+    <string name="label_full_name">Full Name</string>
+
+    <string name="hint_username">Enter username</string>
+    <string name="hint_email">Enter email</string>
+    <string name="hint_password">Enter password</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="hint_full_name">Enter full name</string>
+
+    <string name="btn_login">Login</string>
+    <string name="text_logging_in">Logging in…</string>
+    <string name="text_signing_up">Signing up…</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="toast_login_success">Login Successful</string>
+    <string name="toast_login_failed">Login Failed: %1$s</string>
+    <string name="toast_network_error">Network error: %1$s</string>
+    <string name="toast_error_code">Error: %1$d</string>
+    <string name="toast_sign_up_success">Sign Up Successful</string>
+
+    <string name="error_full_name_required">Full name is required</string>
+    <string name="error_email_required">Email address is required</string>
+    <string name="error_invalid_email">Invalid email address format</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_min_length">Password must be at least 6 characters</string>
+    <string name="error_confirm_password_required">Please confirm your password</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+
+    <!-- OTP strings -->
+    <string name="otp_title">OTP Verification</string>
+    <string name="otp_subtitle">Enter the OTP key sent for %1$s</string>
+    <string name="hint_otp">Enter 6-digit OTP key</string>
+    <string name="btn_verify_otp">Verify OTP</string>
+    <string name="btn_resend_otp">Request Another OTP</string>
+    <string name="btn_back_to_login">Back to Login</string>
+    <string name="otp_timer_running">OTP expires in: %1$d seconds</string>
+    <string name="otp_expired_status">OTP Expired! (0s)</string>
+    <string name="error_otp_expired">OTP key has expired and is void. Please request another OTP.</string>
+    <string name="error_otp_required">OTP key is required</string>
+    <string name="error_otp_invalid">Invalid OTP key. Please try again.</string>
+    <string name="toast_otp_generated">Your OTP key is: %1$s</string>
+    <string name="toast_new_otp_generated">New OTP key generated: %1$s</string>
+    <string name="toast_otp_success">OTP Verification Successful!</string>
+
+    <!-- Home strings -->
+    <string name="home_title">Dashboard</string>
+    <string name="home_welcome_user">Welcome, %1$s!</string>
+    <string name="home_login_success_msg">You have successfully logged in and completed 2-Factor OTP verification.</string>
+    <string name="btn_logout">Log Out</string>
+</resources>
